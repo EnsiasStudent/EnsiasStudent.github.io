@@ -1,0 +1,27 @@
+article { font: 20px/1.2 "New Times Roman", sans-serif; }
+
+article h1{
+    font: 700 2.0rem/1.2 "New Times Roman"; color: hsl(000, 000%, 33%);
+}
+
+article h2 {
+    font: 400 1.8rem/1.2 "New Times Roman"; color: hsl(000, 000%, 83%);
+}
+
+
+article h3 {
+    font: 700 1.5rem/1.2 "New Times Roman"; color: hsl(0, 16%, 27%);
+}
+
+article time {
+    font: 700 1.0rem/1.2 "New Times Roman"; color: hsl(250, 100%, 83%); 
+}
+
+article p {
+    font: 400 1.1rem/1.5 "New Times Roman"; color: hsl(000, 000%, 33%);
+    justify-content: center;
+}
+    
+article figcaption p {
+    font: 400 1.0rem/1.5 "New Times Roman"; color: hsl(000, 000%, 83%);
+}
